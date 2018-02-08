@@ -1,0 +1,26 @@
+net: "train_un_trial_cudnn_augversion2.prototxt"
+#test_iter: 80
+#test_interval: 625
+base_lr: 0.0001
+
+lr_policy: "multistep"
+gamma: 0.25
+
+stepvalue:33000
+stepvalue:45500
+stepvalue:58000
+
+
+
+momentum: 0.9
+
+weight_decay: 0.0004
+max_iter: 70500
+snapshot: 1000
+snapshot_prefix: "/mnt/disk2/rz/trained_model/1/new_"
+
+solver_mode: GPU  # Some of our layers only support GPU
+type: "Adam"
+momentum2: 0.999
+
+display: 3
