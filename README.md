@@ -4,21 +4,21 @@ Code for paper "Unsupervised Deep Learning for Optical Flow Estimation" [Ren et 
 
 The code is based on Caffe platform and visit folder 'DSTFlow' for training and testing.
 
-##Install
+## Install
 
 Just install as Caffe
 
 
-##training
+## training
 
 run 'train.sh'
 
-##Testing
+## Testing
 
 run 'test.sh'
 
 
-##Citation
+## Citation
 The code was written by Zhe Ren. If it helps your research, please cite this paper in your work.
 
 @inproceedings{ren2017unsupervised,
