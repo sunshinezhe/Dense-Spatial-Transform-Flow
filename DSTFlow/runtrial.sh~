@@ -1,5 +1,0 @@
-TOOLS=../build/tools
-
-#LOG_logtostderr=0 GLOG_log_dir=log/  $TOOLS/caffe train --solver=solver_un_trial.prototxt -gpu 0,1  --snapshot=/disk/rz/rz_data/trained_model/new_chair/new__iter_30011.solverstate
-
-LOG_logtostderr=0 GLOG_log_dir=log/  $TOOLS/caffe train --solver=solver_un_trial.prototxt -gpu 0  #--weights=/disk/rz/rz_data/trained_model/2/new__iter_60500.caffemodel
