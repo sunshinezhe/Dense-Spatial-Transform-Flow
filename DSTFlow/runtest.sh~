@@ -1,4 +1,0 @@
-TOOLS=../build/tools
-
-
-$TOOLS/caffe test --model=test_deploy_unsupervised.txt  --weights=/mnt/disk2/rz/trained_model/new__iter_588000.caffemodel  -gpu 0 --iterations=640  
