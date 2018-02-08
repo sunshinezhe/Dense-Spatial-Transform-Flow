@@ -1,4 +1,4 @@
-# Dense Spatial Transformer Network
+# Dense Spatial Transform Network
 
 Code for paper "Unsupervised Deep Learning for Optical Flow Estimation" [Ren et al. (2017)](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14388/13940)
 
