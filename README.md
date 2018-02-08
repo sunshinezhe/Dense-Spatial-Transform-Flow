@@ -21,10 +21,10 @@ run 'test.sh'
 ## Citation
 The code was written by Zhe Ren. If it helps your research, please cite this paper in your work.
 
-@inproceedings{ren2017unsupervised,
-  title={Unsupervised Deep Learning for Optical Flow Estimation.},
-  author={Ren, Zhe and Yan, Junchi and Ni, Bingbing and Liu, Bin and Yang, Xiaokang and Zha, Hongyuan},
-  booktitle={AAAI},
-  pages={1495--1501},
-  year={2017}
-}
+     @inproceedings{ren2017unsupervised,
+       title={Unsupervised Deep Learning for Optical Flow Estimation.},
+       author={Ren, Zhe and Yan, Junchi and Ni, Bingbing and Liu, Bin and Yang, Xiaokang and Zha, Hongyuan},
+       booktitle={AAAI},
+       pages={1495--1501},
+       year={2017}
+     }
